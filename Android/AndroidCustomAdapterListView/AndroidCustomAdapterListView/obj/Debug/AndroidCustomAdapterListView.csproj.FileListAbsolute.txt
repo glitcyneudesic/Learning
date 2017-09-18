@@ -1,0 +1,15 @@
+C:\Users\Glitcy.Peter\documents\visual studio 2017\Projects\AndroidCustomAdapterListView\AndroidCustomAdapterListView\bin\Debug\AndroidCustomAdapterListView.dll
+C:\Users\Glitcy.Peter\documents\visual studio 2017\Projects\AndroidCustomAdapterListView\AndroidCustomAdapterListView\bin\Debug\AndroidCustomAdapterListView.pdb
+C:\Users\Glitcy.Peter\documents\visual studio 2017\Projects\AndroidCustomAdapterListView\AndroidCustomAdapterListView\bin\Debug\AndroidCustomAdapterListView.AndroidCustomAdapterListView.apk
+C:\Users\Glitcy.Peter\documents\visual studio 2017\Projects\AndroidCustomAdapterListView\AndroidCustomAdapterListView\bin\Debug\AndroidCustomAdapterListView.AndroidCustomAdapterListView-Signed.apk
+C:\Users\Glitcy.Peter\documents\visual studio 2017\Projects\AndroidCustomAdapterListView\AndroidCustomAdapterListView\obj\Debug\AndroidCustomAdapterListView.csproj.CoreCompileInputs.cache
+C:\Users\Glitcy.Peter\documents\visual studio 2017\Projects\AndroidCustomAdapterListView\AndroidCustomAdapterListView\obj\Debug\AndroidCustomAdapterListView.dll
+C:\Users\Glitcy.Peter\documents\visual studio 2017\Projects\AndroidCustomAdapterListView\AndroidCustomAdapterListView\obj\Debug\AndroidCustomAdapterListView.pdb
+C:\Users\Glitcy.Peter\documents\visual studio 2017\Projects\AndroidCustomAdapterListView\AndroidCustomAdapterListView\obj\Debug\android\bin\AndroidCustomAdapterListView.AndroidCustomAdapterListView.apk
+C:\Users\Glitcy.Peter\documents\visual studio 2017\Projects\AndroidCustomAdapterListView\AndroidCustomAdapterListView\obj\Debug\res\layout\listtwo.xml
+C:\Users\Glitcy.Peter\documents\visual studio 2017\Projects\AndroidCustomAdapterListView\AndroidCustomAdapterListView\obj\Debug\res\layout\main.xml
+C:\Users\Glitcy.Peter\documents\visual studio 2017\Projects\AndroidCustomAdapterListView\AndroidCustomAdapterListView\obj\Debug\res\values\strings.xml
+C:\Users\Glitcy.Peter\documents\visual studio 2017\Projects\AndroidCustomAdapterListView\AndroidCustomAdapterListView\obj\Debug\R.cs.flag
+C:\Users\Glitcy.Peter\documents\visual studio 2017\Projects\AndroidCustomAdapterListView\AndroidCustomAdapterListView\obj\Debug\uploadflags.txt
+C:\Users\Glitcy.Peter\documents\visual studio 2017\Projects\AndroidCustomAdapterListView\AndroidCustomAdapterListView\bin\Debug\AndroidCustomAdapterListView.dll.mdb
+C:\Users\Glitcy.Peter\documents\visual studio 2017\Projects\AndroidCustomAdapterListView\AndroidCustomAdapterListView\obj\Debug\android\assets\AndroidCustomAdapterListView.dll.mdb
