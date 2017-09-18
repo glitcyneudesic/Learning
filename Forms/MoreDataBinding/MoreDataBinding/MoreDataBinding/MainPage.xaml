@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MoreDataBinding"
+             x:Class="MoreDataBinding.MainPage">
+
+    <StackLayout Padding="20">
+        <Slider x:Name="mySlider" Minimum="0" Maximum="100" VerticalOptions="CenterAndExpand" />
+
+
+        <Label FontAttributes="Bold" FontSize="20" HorizontalOptions="Center" BindingContext="{x:Reference mySlider}"
+               Text="{Binding Value}"/>
+        <Label Text="{Binding LabelText}" BackgroundColor="Blue" TextColor="White"/>
+        <Button Text="Click Me!"  BackgroundColor="Blue" TextColor="Yellow" Command="{Binding ChangeTextCommand}"/>
+        <Image Source="icon.png" Aspect="AspectFit" WidthRequest="75" HeightRequest="75"/>
+    </StackLayout>
+
+</ContentPage>

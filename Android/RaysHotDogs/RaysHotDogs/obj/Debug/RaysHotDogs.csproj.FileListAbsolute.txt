@@ -1,0 +1,16 @@
+C:\Research\Xamarin\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.dll
+C:\Research\Xamarin\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.pdb
+C:\Research\Xamarin\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.RaysHotDogs.apk
+C:\Research\Xamarin\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.RaysHotDogs-Signed.apk
+C:\Research\Xamarin\RaysHotDogs\RaysHotDogs\obj\Debug\RaysHotDogs.csprojResolveAssemblyReference.cache
+C:\Research\Xamarin\RaysHotDogs\RaysHotDogs\obj\Debug\RaysHotDogs.dll
+C:\Research\Xamarin\RaysHotDogs\RaysHotDogs\obj\Debug\RaysHotDogs.pdb
+C:\Research\Xamarin\RaysHotDogs\RaysHotDogs\obj\Debug\android\bin\RaysHotDogs.RaysHotDogs.apk
+C:\Research\Xamarin\RaysHotDogs\RaysHotDogs\obj\Debug\res\layout\hotdogdetailview.xml
+C:\Research\Xamarin\RaysHotDogs\RaysHotDogs\obj\Debug\res\layout\main.xml
+C:\Research\Xamarin\RaysHotDogs\RaysHotDogs\obj\Debug\res\values\strings.xml
+C:\Research\Xamarin\RaysHotDogs\RaysHotDogs\obj\Debug\res\drawable\icon.png
+C:\Research\Xamarin\RaysHotDogs\RaysHotDogs\obj\Debug\R.cs.flag
+C:\Research\Xamarin\RaysHotDogs\RaysHotDogs\obj\Debug\uploadflags.txt
+C:\Research\Xamarin\RaysHotDogs\RaysHotDogs\bin\Debug\RaysHotDogs.dll.mdb
+C:\Research\Xamarin\RaysHotDogs\RaysHotDogs\obj\Debug\android\assets\RaysHotDogs.dll.mdb

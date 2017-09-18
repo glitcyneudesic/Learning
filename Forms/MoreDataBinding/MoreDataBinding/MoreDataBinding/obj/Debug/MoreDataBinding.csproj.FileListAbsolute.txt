@@ -1,0 +1,16 @@
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\MoreDataBinding\MoreDataBinding\MoreDataBinding\bin\Debug\MoreDataBinding.dll
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\MoreDataBinding\MoreDataBinding\MoreDataBinding\bin\Debug\MoreDataBinding.pdb
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\MoreDataBinding\MoreDataBinding\MoreDataBinding\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\MoreDataBinding\MoreDataBinding\MoreDataBinding\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\MoreDataBinding\MoreDataBinding\MoreDataBinding\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\MoreDataBinding\MoreDataBinding\MoreDataBinding\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\MoreDataBinding\MoreDataBinding\MoreDataBinding\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\MoreDataBinding\MoreDataBinding\MoreDataBinding\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\MoreDataBinding\MoreDataBinding\MoreDataBinding\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\MoreDataBinding\MoreDataBinding\MoreDataBinding\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\MoreDataBinding\MoreDataBinding\MoreDataBinding\obj\Debug\MoreDataBinding.csprojResolveAssemblyReference.cache
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\MoreDataBinding\MoreDataBinding\MoreDataBinding\obj\Debug\MoreDataBinding.csproj.CoreCompileInputs.cache
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\MoreDataBinding\MoreDataBinding\MoreDataBinding\obj\Debug\MoreDataBinding.MainPage.xaml.g.cs
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\MoreDataBinding\MoreDataBinding\MoreDataBinding\obj\Debug\MoreDataBinding.App.xaml.g.cs
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\MoreDataBinding\MoreDataBinding\MoreDataBinding\obj\Debug\MoreDataBinding.dll
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\MoreDataBinding\MoreDataBinding\MoreDataBinding\obj\Debug\MoreDataBinding.pdb

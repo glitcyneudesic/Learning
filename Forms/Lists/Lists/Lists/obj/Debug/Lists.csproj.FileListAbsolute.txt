@@ -1,0 +1,15 @@
+C:\glitcy\Xamarin\Forms\Lists\Lists\Lists\bin\Debug\Lists.dll
+C:\glitcy\Xamarin\Forms\Lists\Lists\Lists\bin\Debug\Lists.pdb
+C:\glitcy\Xamarin\Forms\Lists\Lists\Lists\bin\Debug\Xamarin.Forms.Core.dll
+C:\glitcy\Xamarin\Forms\Lists\Lists\Lists\bin\Debug\Xamarin.Forms.Platform.dll
+C:\glitcy\Xamarin\Forms\Lists\Lists\Lists\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\glitcy\Xamarin\Forms\Lists\Lists\Lists\bin\Debug\Xamarin.Forms.Core.pdb
+C:\glitcy\Xamarin\Forms\Lists\Lists\Lists\bin\Debug\Xamarin.Forms.Core.xml
+C:\glitcy\Xamarin\Forms\Lists\Lists\Lists\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\glitcy\Xamarin\Forms\Lists\Lists\Lists\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\glitcy\Xamarin\Forms\Lists\Lists\Lists\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\glitcy\Xamarin\Forms\Lists\Lists\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\glitcy\Xamarin\Forms\Lists\Lists\Lists\obj\Debug\Lists.MainPage.xaml.g.cs
+C:\glitcy\Xamarin\Forms\Lists\Lists\Lists\obj\Debug\Lists.App.xaml.g.cs
+C:\glitcy\Xamarin\Forms\Lists\Lists\Lists\obj\Debug\Lists.dll
+C:\glitcy\Xamarin\Forms\Lists\Lists\Lists\obj\Debug\Lists.pdb

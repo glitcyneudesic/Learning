@@ -1,0 +1,16 @@
+C:\glitcy\Xamarin\Forms\RBVRender\RBVRender\RBVRender\bin\Debug\RBVRender.dll
+C:\glitcy\Xamarin\Forms\RBVRender\RBVRender\RBVRender\bin\Debug\RBVRender.pdb
+C:\glitcy\Xamarin\Forms\RBVRender\RBVRender\RBVRender\bin\Debug\Xamarin.Forms.Core.dll
+C:\glitcy\Xamarin\Forms\RBVRender\RBVRender\RBVRender\bin\Debug\Xamarin.Forms.Platform.dll
+C:\glitcy\Xamarin\Forms\RBVRender\RBVRender\RBVRender\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\glitcy\Xamarin\Forms\RBVRender\RBVRender\RBVRender\bin\Debug\Xamarin.Forms.Core.pdb
+C:\glitcy\Xamarin\Forms\RBVRender\RBVRender\RBVRender\bin\Debug\Xamarin.Forms.Core.xml
+C:\glitcy\Xamarin\Forms\RBVRender\RBVRender\RBVRender\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\glitcy\Xamarin\Forms\RBVRender\RBVRender\RBVRender\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\glitcy\Xamarin\Forms\RBVRender\RBVRender\RBVRender\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\glitcy\Xamarin\Forms\RBVRender\RBVRender\RBVRender\obj\Debug\RBVRender.csprojResolveAssemblyReference.cache
+C:\glitcy\Xamarin\Forms\RBVRender\RBVRender\RBVRender\obj\Debug\RBVRender.csproj.CoreCompileInputs.cache
+C:\glitcy\Xamarin\Forms\RBVRender\RBVRender\RBVRender\obj\Debug\RBVRender.MainPage.xaml.g.cs
+C:\glitcy\Xamarin\Forms\RBVRender\RBVRender\RBVRender\obj\Debug\RBVRender.App.xaml.g.cs
+C:\glitcy\Xamarin\Forms\RBVRender\RBVRender\RBVRender\obj\Debug\RBVRender.dll
+C:\glitcy\Xamarin\Forms\RBVRender\RBVRender\RBVRender\obj\Debug\RBVRender.pdb

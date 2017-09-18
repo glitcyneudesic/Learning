@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:WorkingDemoLayout"
+             x:Class="WorkingDemoLayout.MainPage">
+
+    <StackLayout Padding="20">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Label Text="Upper Left"
+                   Grid.Row="0"
+                   Grid.Column="0"/>
+            <Label Text="Upper Right"
+                   Grid.Row="0"
+                   Grid.Column="1"/>
+            <Label Text="Lower Left"
+                   Grid.Row="1"
+                   Grid.Column="0"/>
+            <Label Text="Lower Right"
+                   Grid.Row="1"
+                   Grid.Column="1"/>
+          
+
+        </Grid>
+        <Label Text="................................................."/>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="100"/>
+            </Grid.RowDefinitions>
+            <Label Text="{Binding Prompt}"
+                   Grid.Row="0"
+                   Grid.Column="0"/>
+
+            <Label Text="{Binding Name}"
+                   Grid.Row="1"
+                   Grid.Column="0"/>
+            <Label Text="Row 3 very wide,"
+                   Grid.Row="2"
+                   Grid.Column="0"
+                   Grid.ColumnSpan="2"/>
+        </Grid>
+
+    </StackLayout>
+
+</ContentPage>

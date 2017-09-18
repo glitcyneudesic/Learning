@@ -1,0 +1,13 @@
+C:\Research\Xamarin\phonebook\phonebook\bin\Debug\phonebook.dll
+C:\Research\Xamarin\phonebook\phonebook\bin\Debug\phonebook.pdb
+C:\Research\Xamarin\phonebook\phonebook\bin\Debug\phonebook.phonebook.apk
+C:\Research\Xamarin\phonebook\phonebook\bin\Debug\phonebook.phonebook-Signed.apk
+C:\Research\Xamarin\phonebook\phonebook\obj\Debug\phonebook.dll
+C:\Research\Xamarin\phonebook\phonebook\obj\Debug\phonebook.pdb
+C:\Research\Xamarin\phonebook\phonebook\obj\Debug\android\bin\phonebook.phonebook.apk
+C:\Research\Xamarin\phonebook\phonebook\obj\Debug\res\layout\main.xml
+C:\Research\Xamarin\phonebook\phonebook\obj\Debug\res\values\strings.xml
+C:\Research\Xamarin\phonebook\phonebook\obj\Debug\res\drawable\icon.png
+C:\Research\Xamarin\phonebook\phonebook\obj\Debug\R.cs.flag
+C:\Research\Xamarin\phonebook\phonebook\obj\Debug\uploadflags.txt
+C:\Research\Xamarin\phonebook\phonebook\obj\Debug\phonebook.csprojResolveAssemblyReference.cache

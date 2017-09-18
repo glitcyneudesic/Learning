@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Lists"
+             x:Class="Lists.MainPage">
+
+    <StackLayout Padding="30">
+        <ListView x:Name="EmployeeList" ItemsSource="{Binding Employees}" ItemTapped="EmployeeList_ItemTapped">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout>
+                            <Label Text="{Binding FirstName}" Font="20"/>
+                            <Label Text="{Binding Company}" Font="10"/>
+                        </StackLayout> 
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>
