@@ -13,3 +13,19 @@ C:\Users\Glitcy.Peter\documents\visual studio 2017\Projects\AndroidCustomAdapter
 C:\Users\Glitcy.Peter\documents\visual studio 2017\Projects\AndroidCustomAdapterListView\AndroidCustomAdapterListView\obj\Debug\uploadflags.txt
 C:\Users\Glitcy.Peter\documents\visual studio 2017\Projects\AndroidCustomAdapterListView\AndroidCustomAdapterListView\bin\Debug\AndroidCustomAdapterListView.dll.mdb
 C:\Users\Glitcy.Peter\documents\visual studio 2017\Projects\AndroidCustomAdapterListView\AndroidCustomAdapterListView\obj\Debug\android\assets\AndroidCustomAdapterListView.dll.mdb
+C:\glitcy\Xamarin\Glitcy_Xamarin\Learning\Android\AndroidCustomAdapterListView\AndroidCustomAdapterListView\bin\Debug\AndroidCustomAdapterListView.dll
+C:\glitcy\Xamarin\Glitcy_Xamarin\Learning\Android\AndroidCustomAdapterListView\AndroidCustomAdapterListView\bin\Debug\AndroidCustomAdapterListView.pdb
+C:\glitcy\Xamarin\Glitcy_Xamarin\Learning\Android\AndroidCustomAdapterListView\AndroidCustomAdapterListView\bin\Debug\AndroidCustomAdapterListView.AndroidCustomAdapterListView.apk
+C:\glitcy\Xamarin\Glitcy_Xamarin\Learning\Android\AndroidCustomAdapterListView\AndroidCustomAdapterListView\bin\Debug\AndroidCustomAdapterListView.AndroidCustomAdapterListView-Signed.apk
+C:\glitcy\Xamarin\Glitcy_Xamarin\Learning\Android\AndroidCustomAdapterListView\AndroidCustomAdapterListView\obj\Debug\AndroidCustomAdapterListView.csprojResolveAssemblyReference.cache
+C:\glitcy\Xamarin\Glitcy_Xamarin\Learning\Android\AndroidCustomAdapterListView\AndroidCustomAdapterListView\obj\Debug\AndroidCustomAdapterListView.csproj.CoreCompileInputs.cache
+C:\glitcy\Xamarin\Glitcy_Xamarin\Learning\Android\AndroidCustomAdapterListView\AndroidCustomAdapterListView\obj\Debug\AndroidCustomAdapterListView.dll
+C:\glitcy\Xamarin\Glitcy_Xamarin\Learning\Android\AndroidCustomAdapterListView\AndroidCustomAdapterListView\obj\Debug\AndroidCustomAdapterListView.pdb
+C:\glitcy\Xamarin\Glitcy_Xamarin\Learning\Android\AndroidCustomAdapterListView\AndroidCustomAdapterListView\obj\Debug\android\bin\AndroidCustomAdapterListView.AndroidCustomAdapterListView.apk
+C:\glitcy\Xamarin\Glitcy_Xamarin\Learning\Android\AndroidCustomAdapterListView\AndroidCustomAdapterListView\obj\Debug\res\layout\listtwo.xml
+C:\glitcy\Xamarin\Glitcy_Xamarin\Learning\Android\AndroidCustomAdapterListView\AndroidCustomAdapterListView\obj\Debug\res\layout\main.xml
+C:\glitcy\Xamarin\Glitcy_Xamarin\Learning\Android\AndroidCustomAdapterListView\AndroidCustomAdapterListView\obj\Debug\res\values\strings.xml
+C:\glitcy\Xamarin\Glitcy_Xamarin\Learning\Android\AndroidCustomAdapterListView\AndroidCustomAdapterListView\obj\Debug\R.cs.flag
+C:\glitcy\Xamarin\Glitcy_Xamarin\Learning\Android\AndroidCustomAdapterListView\AndroidCustomAdapterListView\obj\Debug\uploadflags.txt
+C:\glitcy\Xamarin\Glitcy_Xamarin\Learning\Android\AndroidCustomAdapterListView\AndroidCustomAdapterListView\bin\Debug\AndroidCustomAdapterListView.dll.mdb
+C:\glitcy\Xamarin\Glitcy_Xamarin\Learning\Android\AndroidCustomAdapterListView\AndroidCustomAdapterListView\obj\Debug\android\assets\AndroidCustomAdapterListView.dll.mdb

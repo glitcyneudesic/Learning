@@ -1,0 +1,16 @@
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\FormMVVMDemo\FormMVVMDemo\FormMVVMDemo\bin\Debug\FormMVVMDemo.dll
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\FormMVVMDemo\FormMVVMDemo\FormMVVMDemo\bin\Debug\FormMVVMDemo.pdb
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\FormMVVMDemo\FormMVVMDemo\FormMVVMDemo\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\FormMVVMDemo\FormMVVMDemo\FormMVVMDemo\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\FormMVVMDemo\FormMVVMDemo\FormMVVMDemo\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\FormMVVMDemo\FormMVVMDemo\FormMVVMDemo\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\FormMVVMDemo\FormMVVMDemo\FormMVVMDemo\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\FormMVVMDemo\FormMVVMDemo\FormMVVMDemo\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\FormMVVMDemo\FormMVVMDemo\FormMVVMDemo\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\FormMVVMDemo\FormMVVMDemo\FormMVVMDemo\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\FormMVVMDemo\FormMVVMDemo\FormMVVMDemo\obj\Debug\FormMVVMDemo.csproj.CoreCompileInputs.cache
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\FormMVVMDemo\FormMVVMDemo\FormMVVMDemo\obj\Debug\FormMVVMDemo.MainPage.xaml.g.cs
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\FormMVVMDemo\FormMVVMDemo\FormMVVMDemo\obj\Debug\FormMVVMDemo.App.xaml.g.cs
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\FormMVVMDemo\FormMVVMDemo\FormMVVMDemo\obj\Debug\FormMVVMDemo.dll
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\FormMVVMDemo\FormMVVMDemo\FormMVVMDemo\obj\Debug\FormMVVMDemo.pdb
+c:\users\glitcy.peter\documents\visual studio 2017\Projects\FormMVVMDemo\FormMVVMDemo\FormMVVMDemo\obj\Debug\FormMVVMDemo.QuoteView.xaml.g.cs
